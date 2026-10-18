@@ -2,12 +2,6 @@
 
 Tugas Proyek Grafika Komputer.
 
-## Cara menjalankan di VS Code
-1. Ekstrak file zip, lalu buka foldernya di VS Code (File > Open Folder).
-2. Instal ekstensi **Live Server** (Ritwick Dey).
-3. Klik kanan `index.html` > **Open with Live Server**.
-   (Alternatif: buka `index.html` langsung di browser, game juga bisa berjalan.)
-
 ## Struktur
 - `index.html`        : halaman utama
 - `sketch.js`         : kode game (setup, draw, logika, tampilan)
